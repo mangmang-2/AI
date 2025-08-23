@@ -25,3 +25,8 @@ train.py
 | `added_tokens.json` (있을 수도 있고 없을 수도 있음) | 사용자 정의 토큰이 있을 경우 저장됨                                        |
 
 만약 다른 컴퓨터에서 학습한 데이터를 사용하고 싶다면 여기있는걸 가져가야함
+
+학습이 드럽게 안되어서 다른 모델 전환
+pip install transformers accelerate bitsandbytes
+
+
