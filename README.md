@@ -29,4 +29,8 @@ train.py
 학습이 드럽게 안되어서 다른 모델 전환
 pip install transformers accelerate bitsandbytes
 
+생성
+generate.py
+
+
 
