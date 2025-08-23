@@ -1,0 +1,6 @@
+{"text": "int add(int a, int b) {\n    return a + b;\n}"}
+{"text": "int subtract(int a, int b) {\n    return a - b;\n}"}
+{"text": "int multiply(int a, int b) {\n    return a * b;\n}"}
+{"text": "int divide(int a, int b) {\n    if (b == 0) return 0;\n    return a / b;\n}"}
+{"text": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"text": "int min(int a, int b) {\n    return (a < b) ? a : b;\n}"}
